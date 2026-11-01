@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.local
+.DS_Store
+
+# 本地浏览器验证脚本与产物
+verify-*.mjs
+verify-*.png
+verify-downloads/
